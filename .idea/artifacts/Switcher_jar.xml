@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Switcher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Switcher_jar</output-path>
+    <root id="archive" name="Switcher.jar">
+      <element id="module-output" name="Switcher" />
+    </root>
+  </artifact>
+</component>
